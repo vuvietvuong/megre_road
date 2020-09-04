@@ -15,7 +15,7 @@
     "jquery": "^3.5.1",
     "js2xmlparser": "^4.0.1",
     "jsontoxml": "^1.0.1",
-    "mongodb": "^2.2.3",
+    "mongodb": "^3.1.13",
     "node-gyp": "^6.1.0",
     "path": "^0.12.7",
     "read-xml": "^3.0.0",
